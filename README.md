@@ -1,4 +1,4 @@
-https://youtu.be/nfUbVqmj4GY
+https://i.ibb.co/tHTsPZg/WEb-Developer.png
 ### Let's Build The Digital World, my name is Jahid Hasan
 #### Web-Development Learner
 I am deeply passionate about learning, especially in the realm of Web Development. I am a diligent worker who thrives on meeting deadlines and embraces challenges. My enthusiasm is particularly ignited when I'm working with technologies like React.js and JavaScript.I also have a basic understanding of Python.
@@ -19,6 +19,4 @@ Skills:  REACT / JS / HTML / CSS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahid2121&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jahid2121)  
 
-![Profile views](https://gpvc.arturio.dev/Jahid2121)  
