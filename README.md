@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Jahid Hasan
+https://youtu.be/nfUbVqmj4GY
+### Let's Build The Digital World, my name is Jahid Hasan
 #### Web-Development Learner
 I am deeply passionate about learning, especially in the realm of Web Development. I am a diligent worker who thrives on meeting deadlines and embraces challenges. My enthusiasm is particularly ignited when I'm working with technologies like React.js and JavaScript.I also have a basic understanding of Python.
 
 Skills:  REACT / JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
+
+- 🌱 I’m currently learning React + JavaScript integration
 - 👯 I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
 - 💬 Ask me about My journey in Web Development and how I've been overcoming challenges while learning and tackling complex projects. I'd be happy to share my experiences! 
 
