@@ -1,4 +1,5 @@
-[Watch the Video](https://youtu.be/nfUbVqmj4GY)
+![Web Developer](https://i.ibb.co/tHTsPZg/WEb-Developer.png)
+
 ### Let's Build The Digital World, my name is Jahid Hasan
 #### Web-Development Learner
 I am deeply passionate about learning, especially in the realm of Web Development. I am a diligent worker who thrives on meeting deadlines and embraces challenges. My enthusiasm is particularly ignited when I'm working with technologies like React.js and JavaScript.I also have a basic understanding of Python.
