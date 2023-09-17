@@ -14,7 +14,6 @@ Skills:  REACT / JS / HTML / CSS / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jahid2121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100082103931531)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jahid2121)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid2121)](https://github.com/anuraghazra/github-readme-stats)
 
