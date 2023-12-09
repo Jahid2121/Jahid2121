@@ -4,7 +4,7 @@
 #### Web-Developer
 I am deeply passionate about learning, especially in the realm of Web Development. I am a diligent worker who thrives on meeting deadlines and embraces challenges. My enthusiasm is particularly ignited when I'm working with technologies like React.js and JavaScript.
 
-Skills:  REACT / JS / HTML / CSS 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react)](https://skillicons.dev)
 
 
 - 🌱 I’m currently exploring Node js
