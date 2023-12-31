@@ -13,8 +13,8 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jahid2121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100082103931531)  
-![GitHub Stats]([https://github.com/<your-username>/<repository-name>/blob/main/metrics.svg](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark))
-https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark
+![GitHub Trends](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark
+https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid2121)](https://github.com/anuraghazra/github-readme-stats)
 
