@@ -10,7 +10,7 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 - 🌱 I’m currently exploring Node js
 - 👯 I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
 - 💬 Ask me about My journey in Web Development and how I've been overcoming challenges while learning and tackling complex projects. I'd be happy to share my experiences! 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid2121)](https://git.io/streak-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jahid2121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100082103931531)  
 ![GitHub Trends](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark)
