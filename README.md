@@ -10,7 +10,7 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 - 🌱 I’m currently exploring Node js
 - 👯 I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
 - 💬 Ask me about My journey in Web Development and how I've been overcoming challenges while learning and tackling complex projects. I'd be happy to share my experiences! 
-<div style={{margin-top: '2px'}}>
+<div style="margin-top: 2px;">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid2121)](https://git.io/streak-stats)
 </div>
 
