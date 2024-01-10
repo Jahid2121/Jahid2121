@@ -7,7 +7,7 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 
-- 🌱 I’m currently exploring Node js
+- 🌱 I’m currently exploring Next js
 - 👯 I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
 - 💬 Ask me about My journey in Web Development and how I've been overcoming challenges while learning and tackling complex projects. I'd be happy to share my experiences! 
 
