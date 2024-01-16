@@ -13,7 +13,10 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid2121)](https://git.io/streak-stats)
 
-<div align="left">
+<div  align="left">
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid2121)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://app.daily.dev/jahid01"><img align="right" src="https://api.daily.dev/devcards/4fe136ccfbd3464a9b61d6894651fa5b.png?r=m3o" width="400" alt="Jahid's Dev Card"/></a>
 </div>
 
@@ -23,8 +26,6 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
 ![GitHub Trends](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid2121)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
