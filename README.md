@@ -14,7 +14,7 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahid2121)](https://git.io/streak-stats)
 
 <div align="left">
-<a href="https://app.daily.dev/jahid01"><img src="https://api.daily.dev/devcards/4fe136ccfbd3464a9b61d6894651fa5b.png?r=m3o" width="400" alt="Jahid's Dev Card"/></a>
+<a href="https://app.daily.dev/jahid01"><img align="right" src="https://api.daily.dev/devcards/4fe136ccfbd3464a9b61d6894651fa5b.png?r=m3o" width="400" alt="Jahid's Dev Card"/></a>
 </div>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jahid2121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100082103931531)  
 ![GitHub Trends](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark)
