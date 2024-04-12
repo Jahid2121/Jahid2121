@@ -1,15 +1,11 @@
 ![Web Developer](https://i.ibb.co/nfDJ55q/Jahid-Hasan-Banner-Image-1.gif)
 
-### Let's Build The Digital World, me Jahid Hasan
-#### Web-Developer
-I am deeply passionate about learning, especially in the realm of Web Development. I am a diligent worker who thrives on meeting deadlines and embraces challenges. My enthusiasm is particularly ignited when I'm working with technologies like React.js and JavaScript.
+### Let's Build The Digital World, 
+#### Myself
+I am a simple person working with extra ordinary web technologies. 
 
-
-
-
-- 🌱 I’m currently exploring Next js
-- 👯 I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
-- 💬 Ask me about My journey in Web Development and how I've been overcoming challenges while learning and tackling complex projects. I'd be happy to share my experiences!
+-  I’m currently exploring Next js
+-  I’m looking to collaborate on I'm open to collaboration on various projects. Feel free to connect and discuss ideas! 
   <h3 align="center">Language and Tools:</h3>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -32,6 +28,10 @@ I am deeply passionate about learning, especially in the realm of Web Developmen
     <img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="60" />
   </a>
 </p>
+ <h3 align="center"> My recent blog posts:</h3>
+ <p>
+   https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck
+ </p>
 
 
 
