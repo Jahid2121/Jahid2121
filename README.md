@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/C0KfdkD/WEb-Developer-2.png)
+![Web Developer](https://i.ibb.co/3dTJhnf/Jahid-Hasan-Banner-Image.gif)
 
 ### Let's Build The Digital World, me Jahid Hasan
 #### Web-Developer
