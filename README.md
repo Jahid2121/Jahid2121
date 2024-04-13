@@ -36,7 +36,7 @@ I am a simple person working with extra ordinary web technologies.
 </p>
  <h3 align="center"> My recent blog posts:</h3>
  <p>
-   https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck
+  https://dly.to/D7uzSw7ZxUQ
  </p>
 
 
