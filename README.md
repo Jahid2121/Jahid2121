@@ -23,6 +23,12 @@ I am a simple person working with extra ordinary web technologies.
   <a href="https://discord.com/channels/jahid_010" style="text-decoration:none">
     <img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="60" />
   </a>
+   <a href="https://jahid1.medium.com/about" style="text-decoration:none">
+    <img alt="Dev-dot-to" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="60" />
+  </a>
+  <a href="https://dev.to/jahid2121" style="text-decoration:none">
+    <img alt="medium" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="60" />
+  </a>
   
   <a href="https://www.linkedin.com/in/md-jahid-hasan01/" style="text-decoration:none">
     <img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="60" />
