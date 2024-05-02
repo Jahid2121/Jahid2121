@@ -38,6 +38,9 @@ I am a simple person working with extra ordinary web technologies.
  <p>
   https://dly.to/D7uzSw7ZxUQ
  </p>
+ <p>
+   https://dev.to/jahid2121/a-simple-mongodb-trick-to-save-your-time-36bp
+ </p>
 
 
 
