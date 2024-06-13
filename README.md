@@ -9,7 +9,7 @@ I am a simple person working with extra ordinary web technologies.
   <h3 align="center">Language and Tools:</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <Img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,express,nodejs,nextjs,figma,npm,vercel,vite,vscode,materialui" />
+      <Img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,express,nodejs,postgres,graphql" />
     </a>
   </p>
 
