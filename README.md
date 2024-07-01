@@ -56,7 +56,12 @@ I am a simple person working with extra ordinary web technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid2121)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://app.daily.dev/jahid01"><img align="left" src="https://api.daily.dev/devcards/v2/UTI5EzSqmr5FsQfZ2IRIA.png?type=default&r=5ac" width="356" alt="Jahid's Dev Card"/></a>
+ ### Leetcode
+  <div align="center">
 
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Jahid_20?theme=auto&font=baloo&extension=null)
+
+  </div>
 </div>
 
 ![GitHub Trends](https://api.githubtrends.io/user/svg/Jahid2121/langs?time_range=one_month&compact=True&theme=dark)
