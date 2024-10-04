@@ -61,8 +61,8 @@ I am a simple person working with extraordinary web technologies.
 <a href="https://app.daily.dev/jahid01"><img align="right" src="https://api.daily.dev/devcards/v2/UTI5EzSqmr5FsQfZ2IRIA.png?type=default&r=5ac" width="356" alt="Jahid's Dev Card"/></a>
 </div>
 
-<h3  style="color:#144e3c;">LeetCode Stats</h3>
-<div align="center">
+<h3 align="left"  style="color:#144e3c;">LeetCode Stats</h3>
+<div align="left">
   
 ![LeetCode Stats](https://leetcode.card.workers.dev/Jahid_20?theme=dark&font=baloo&extension=null)
 </div>
