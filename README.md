@@ -51,7 +51,7 @@ I am a simple person working with extraordinary web technologies.
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 10px">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jahid2121&theme=green_nur" />
 </p>
 
