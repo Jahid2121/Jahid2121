@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/nfDJ55q/Jahid-Hasan-Banner-Image-1.gif)
+![Web Developer](https://iili.io/3WPwive.png)
 
 <h1 align="center" style="color: #4CAF50;">Let's Build The Digital World</h1>
 
@@ -10,7 +10,7 @@ I am a simple person working with extraordinary web technologies.
 <h3 align="center" style="color: #4CAF50;"> Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,express,nodejs,postgres,graphql,django,jest" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,express,nodejs,postgres,graphql,django,jest,python" />
   </a>
 </p>
 
@@ -64,7 +64,8 @@ I am a simple person working with extraordinary web technologies.
 <h3 align="center"  style="color:#144e3c;">LeetCode Stats</h3>
 <div align="center">
   
-![LeetCode Stats](https://leetcode.card.workers.dev/Jahid_20?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jahid20u?theme=dark&font=baloo
+)
 </div>
 
 <div align="center">
